@@ -1,5 +1,7 @@
-some awesome description
+*some awesome description*
 
+# Coming soon
+<!--
 ### some blog posts
 
 
@@ -7,3 +9,4 @@ some awesome description
 
 
 ### some videos
+ -->
