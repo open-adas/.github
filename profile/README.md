@@ -20,7 +20,7 @@ We use open-source:
 [<img align="left" alt="opencv" width="26px" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" />]()
 [<img align="left" alt="onnx" width="26px" src="https://onnx.ai/images/icon/icon-ONNX-logo.svg" />]()
 [<img align="left" alt="Carla" width="26px" src="https://avatars.githubusercontent.com/u/33029185?s=200&v=4" />]()
-
+[<img align="left" alt="open street map" width="26px" src="https://avatars.githubusercontent.com/u/261431?s=200&v=4" />]()
 
 <!-- 
 
