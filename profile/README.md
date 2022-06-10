@@ -1,4 +1,6 @@
 *some awesome description*
+![Alt text](./pat_color.svg)
+<img src="./pat_color.svg">
 
 # Coming soon
 
