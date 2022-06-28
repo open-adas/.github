@@ -1,5 +1,5 @@
 *some awesome description*
-<img src="https://raw.githubusercontent.com/open-adas/.github/master/profile/pat_color.svg">
+<!-- <img src="https://raw.githubusercontent.com/open-adas/.github/master/profile/pat_color.svg"> -->
 
 # Coming soon
 
